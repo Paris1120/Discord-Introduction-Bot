@@ -1,2 +1,2 @@
-# Discord-Ticket-Bot
-Discord Ticket Bot
+# Discord-Introduction-Bot
+Discord Introduction Bot
